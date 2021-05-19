@@ -1,3 +1,10 @@
+#Calendario con eventos compartidos. 
+Para grupos de trabajo o similar.
+
+##link:
+https://calendario-mern421.herokuapp.com/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
